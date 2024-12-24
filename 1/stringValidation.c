@@ -10,7 +10,7 @@ int main()
 
     if(len < 2)
     {
-        printf("\Invalid string..!");
+        printf("\nInvalid string..!");
     }
     else
     {
